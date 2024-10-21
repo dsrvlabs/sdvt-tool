@@ -1,0 +1,272 @@
+{
+  "validators": [
+    {
+      "id": 593719,
+      "public_key": "a1d3802e50c596ee1973524b18302aee2d4744da67bebed1878e4ce61ab339688caf83e1e1017c318042d91b27a52a14",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Active",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {
+        "index": 1614125,
+        "status": "active_ongoing",
+        "activation_epoch": 318250
+      },
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593720,
+      "public_key": "940011c0349595d21b02cf8685bfc35556b75cf308f6fd5a40121a9e24e2e49735a1d14d2577ad48277ca41d43156fef",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Active",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {
+        "index": 1614126,
+        "status": "active_ongoing",
+        "activation_epoch": 318250
+      },
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593721,
+      "public_key": "91cd7590ac386a224bf38a3e40359f16267e5ecb14f6afeedc1e5af58590b6e2089adab15cc326e3d4702eedab7474ff",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Active",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {
+        "index": 1614127,
+        "status": "active_ongoing",
+        "activation_epoch": 318250
+      },
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593722,
+      "public_key": "a23d2d60306a4a49b0f312b767bc4b33861ea4c97f14f7fa65ea9d56ce4eca36d724eb9fe16cc34e1bda224172b822f7",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Active",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {
+        "index": 1614128,
+        "status": "active_ongoing",
+        "activation_epoch": 318250
+      },
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593723,
+      "public_key": "a5851052f3892799d742e67d47692b3198ecb53a124ad21d1e134f3f219e159d91105022ad0b14cefe71f8cb4138846a",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Active",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {
+        "index": 1614129,
+        "status": "active_ongoing",
+        "activation_epoch": 318250
+      },
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593724,
+      "public_key": "8b0576a43bfee2844352c49befb6fab018128f2ca0d9a56ee52b449f90e1486f84b83fa478e6cfa984590c76f8f8d099",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Inactive",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {},
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593725,
+      "public_key": "977ff1cc2c49fc22fba7410ccddcd3ec711443c4c054f1cbf680105b4e9b4b8f83895a778c12ab4a5dccf7de9c3d33d9",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Inactive",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {},
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593726,
+      "public_key": "aa53d421a93eccb11c07298147e542a51892afd2cbcb7d4b76780df98069b0b26e21e6f35b0483e47d03f91641cf4542",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Inactive",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {},
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593727,
+      "public_key": "adfb238a4a610c23331eb40eada6f4baff5456edf8925712a46effdde44681c37918f41906af5f5b5303db098f236d5b",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Inactive",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {},
+      "version": "v4",
+      "network": "mainnet"
+    },
+    {
+      "id": 593728,
+      "public_key": "89fcceda3a974a7a3af85ae2a1c519d3bc9114361b0bd445faba3dcb89a7af764763a08f0823077eb0eb305cffaef664",
+      "cluster": "0x58348f4c2ecec37b5502f029d2434990a560c047226da1e025ec2890c01e4c22",
+      "owner_address": "0xfc23dd69B6968c8623db910984886C94cc2236AA",
+      "status": "Inactive",
+      "is_valid": true,
+      "is_deleted": false,
+      "is_public_key_valid": true,
+      "is_shares_valid": true,
+      "is_operators_valid": true,
+      "operators": [
+        1029,
+        1041,
+        1043,
+        1044,
+        1051,
+        1081,
+        1089
+      ],
+      "validator_info": {},
+      "version": "v4",
+      "network": "mainnet"
+    }
+  ],
+  "pagination": {
+    "total": 20,
+    "pages": 2,
+    "per_page": 10,
+    "page": 1,
+    "current_first": 593719,
+    "current_last": 593728
+  }
+}
